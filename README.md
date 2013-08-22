@@ -1,4 +1,3 @@
-
  jQuery Validation Library
  
  @author Cassian LUP
@@ -9,3 +8,4 @@
  
  @category jQuery plugin
  
+ Released under MIT License.
